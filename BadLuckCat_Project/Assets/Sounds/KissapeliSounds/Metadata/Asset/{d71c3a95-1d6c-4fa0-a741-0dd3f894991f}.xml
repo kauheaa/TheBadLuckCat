@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{d71c3a95-1d6c-4fa0-a741-0dd3f894991f}">
+		<property name="assetPath">
+			<value>CatSounds/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe0804be-d8a7-4273-bbd8-69fbcc93ee2f}</destination>
+		</relationship>
+	</object>
+</objects>

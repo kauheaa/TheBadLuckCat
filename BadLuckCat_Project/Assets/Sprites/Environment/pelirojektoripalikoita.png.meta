@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 1f3c3137e94d24840a723e0a7bd4e4f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3973989396311090336
+    second: pelirojektoripalikoita_0
+  - first:
+      213: -6036272584592841976
+    second: pelirojektoripalikoita_1
+  - first:
+      213: -3649312195817285022
+    second: pelirojektoripalikoita_2
+  - first:
+      213: -5983873185035947221
+    second: pelirojektoripalikoita_3
+  - first:
+      213: -387186814936337140
+    second: pelirojektoripalikoita_4
+  - first:
+      213: -7645704683054449646
+    second: pelirojektoripalikoita_5
+  - first:
+      213: -1077388067853612570
+    second: pelirojektoripalikoita_6
+  - first:
+      213: -3764991426044533922
+    second: pelirojektoripalikoita_7
+  - first:
+      213: -2381475273705472683
+    second: pelirojektoripalikoita_8
+  - first:
+      213: 3342219835614629817
+    second: pelirojektoripalikoita_9
+  - first:
+      213: -1812439635135014652
+    second: pelirojektoripalikoita_10
+  - first:
+      213: -5077636706007324727
+    second: pelirojektoripalikoita_11
+  - first:
+      213: 8711392050018433667
+    second: pelirojektoripalikoita_12
+  - first:
+      213: -5287907039189683855
+    second: pelirojektoripalikoita_13
+  - first:
+      213: -8762021267986079822
+    second: pelirojektoripalikoita_14
+  - first:
+      213: 5467239020226596941
+    second: pelirojektoripalikoita_15
+  - first:
+      213: 8780151006410838928
+    second: pelirojektoripalikoita_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1879
+        width: 907
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4aa440d42762730800000000000000
+      internalID: 3973989396311090336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_1
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2181
+        width: 240
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8032aebd01ada3ca0800000000000000
+      internalID: -6036272584592841976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2231
+        width: 365
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5fcd84e90b5dc0800000000000000
+      internalID: -3649312195817285022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_3
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2134
+        width: 359
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2372f8ca0305fca0800000000000000
+      internalID: -5983873185035947221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1374
+        width: 908
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05310aa4af60aaf0800000000000000
+      internalID: -387186814936337140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_5
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1735
+        width: 293
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cbff4791005e590800000000000000
+      internalID: -7645704683054449646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1761
+        width: 269
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e94752b2495c01f0800000000000000
+      internalID: -1077388067853612570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_7
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1482
+        width: 709
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53693cee3010cbc0800000000000000
+      internalID: -3764991426044533922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 974
+        width: 966
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db86d2bdc43fed0800000000000000
+      internalID: -2381475273705472683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_9
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 975
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf031f8b33f16e20800000000000000
+      internalID: 3342219835614629817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_10
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 975
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40950fa21cbe8d6e0800000000000000
+      internalID: -1812439635135014652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_11
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 959
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e2ff715c9889b0800000000000000
+      internalID: -5077636706007324727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_12
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 944
+        width: 210
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ab2802ae415e870800000000000000
+      internalID: 8711392050018433667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 932
+        width: 350
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171bfcb70949d96b0800000000000000
+      internalID: -5287907039189683855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 65
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9547741c076680800000000000000
+      internalID: -8762021267986079822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 686
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d2c61ce88fdb40800000000000000
+      internalID: 5467239020226596941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelirojektoripalikoita_16
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 37
+        width: 687
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093186332dc59d970800000000000000
+      internalID: 8780151006410838928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

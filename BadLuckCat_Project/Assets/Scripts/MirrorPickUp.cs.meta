@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5efd1db33ec5e045b862302a4fad59a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ekaPeilinPala: {instanceID: 0}
+  - tokaPeilinPala: {instanceID: 0}
+  - kolmasPeilinPala: {instanceID: 0}
+  - neljasPeilinPala: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

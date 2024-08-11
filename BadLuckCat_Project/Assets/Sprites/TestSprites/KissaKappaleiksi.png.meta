@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: cfcfc8e6ea16bc249bcd13a02c9d9c47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4184132406163007269
+    second: "H\xE4nt\xE42"
+  - first:
+      213: -1155399334749231582
+    second: KissaKappaleiksi_1
+  - first:
+      213: -3872992681481652054
+    second: "H\xE4nt\xE4"
+  - first:
+      213: 2826652320622655662
+    second: Body2
+  - first:
+      213: 7197589273164220394
+    second: Head
+  - first:
+      213: -4707007389845463877
+    second: Head2
+  - first:
+      213: -4608163831703935667
+    second: Taka_oikea_jalka
+  - first:
+      213: -6482699956031516573
+    second: Body
+  - first:
+      213: 6460853890520166659
+    second: KissaKappaleiksi_8
+  - first:
+      213: 14522641431173378
+    second: Taka_vasen_jalka
+  - first:
+      213: -4728887173714615760
+    second: KissaKappaleiksi_10
+  - first:
+      213: 4289993604120993097
+    second: KissaKappaleiksi_11
+  - first:
+      213: -8022951390560957012
+    second: KissaKappaleiksi_12
+  - first:
+      213: -1304743251622581972
+    second: Taka_oikea_nilkka
+  - first:
+      213: -3884511183935988366
+    second: Taka_oikea_tassu
+  - first:
+      213: 2706912882309710244
+    second: Taka_vasen_nilkka
+  - first:
+      213: 3420697990935676823
+    second: KissaKappaleiksi_16
+  - first:
+      213: 3367104617837571153
+    second: Taka_vasen_tassu
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "H\xE4nt\xE42"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 120
+        height: 229
+      alignment: 9
+      pivot: {x: 0.9252111, y: 0.040141944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527eb824146011a30800000000000000
+      internalID: 4184132406163007269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissaKappaleiksi_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 427
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ac863d6237ffe0800000000000000
+      internalID: -1155399334749231582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "H\xE4nt\xE4"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 398
+        width: 97
+        height: 157
+      alignment: 9
+      pivot: {x: 0.84695894, y: 0.043614674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8399a1dad504ac0800000000000000
+      internalID: -3872992681481652054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 353
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83f323f494a3720800000000000000
+      internalID: 2826652320622655662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 435
+        width: 345
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4935262, y: 0.03798424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae78d1a3f49f2e360800000000000000
+      internalID: 7197589273164220394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 375
+        width: 423
+        height: 287
+      alignment: 9
+      pivot: {x: 0.6000949, y: 0.05363746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc5f1db7b95daeb0800000000000000
+      internalID: -4707007389845463877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taka_oikea_jalka
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 154
+        width: 127
+        height: 177
+      alignment: 9
+      pivot: {x: 0.7820963, y: 0.86188143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45eb7009638c00c0800000000000000
+      internalID: -4608163831703935667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 299
+        width: 203
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601d4f9cb2d806a0800000000000000
+      internalID: -6482699956031516573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissaKappaleiksi_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 222
+        width: 177
+        height: 172
+      alignment: 9
+      pivot: {x: 0.48773298, y: 0.38638607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301b722e16099a950800000000000000
+      internalID: 6460853890520166659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taka_vasen_jalka
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 183
+        width: 68
+        height: 95
+      alignment: 9
+      pivot: {x: 0.755446, y: 0.8771186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20994b3f348933000800000000000000
+      internalID: 14522641431173378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissaKappaleiksi_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 75
+        width: 68
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e6d39b2e9f5eb0800000000000000
+      internalID: -4728887173714615760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissaKappaleiksi_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 67
+        width: 38
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d545e147e198b30800000000000000
+      internalID: 4289993604120993097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissaKappaleiksi_12
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 79
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad436bb730c8a090800000000000000
+      internalID: -8022951390560957012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taka_oikea_nilkka
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 67
+        width: 73
+        height: 82
+      alignment: 9
+      pivot: {x: 0.46603894, y: 0.49645725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a2fbecee94ede0800000000000000
+      internalID: -1304743251622581972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taka_oikea_tassu
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 61
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21524099, y: 0.52934206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9673c8a1771ac0800000000000000
+      internalID: -3884511183935988366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taka_vasen_nilkka
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 65
+        width: 78
+        height: 103
+      alignment: 9
+      pivot: {x: 0.55786484, y: 0.502492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1cff3bce2e09520800000000000000
+      internalID: 2706912882309710244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KissaKappaleiksi_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 35
+        width: 48
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970d99f2b2c87f20800000000000000
+      internalID: 3420697990935676823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taka_vasen_tassu
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 16
+        width: 68
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2126236, y: 0.72722733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c29cb6fcb5abe20800000000000000
+      internalID: 3367104617837571153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

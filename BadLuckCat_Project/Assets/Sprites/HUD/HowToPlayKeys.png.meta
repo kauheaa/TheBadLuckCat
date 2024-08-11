@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 5ea3da8bc8022144b9d367cfcbb19054
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6159988279470646798
+    second: HowToPlayKeys_0
+  - first:
+      213: -5128477318256162165
+    second: HowToPlayKeys_1
+  - first:
+      213: 6900310289678896365
+    second: HowToPlayKeys_2
+  - first:
+      213: -2298930331131670475
+    second: HowToPlayKeys_3
+  - first:
+      213: -6287020315186536531
+    second: HowToPlayKeys_4
+  - first:
+      213: -7021731623295974385
+    second: HowToPlayKeys_5
+  - first:
+      213: -8366975151257298834
+    second: HowToPlayKeys_6
+  - first:
+      213: -513500873666227617
+    second: HowToPlayKeys_7
+  - first:
+      213: 4080116097756563130
+    second: HowToPlayKeys_8
+  - first:
+      213: 1773266090006089424
+    second: HowToPlayKeys_9
+  - first:
+      213: -4035392187221304693
+    second: HowToPlayKeys_10
+  - first:
+      213: 2532061324651934126
+    second: HowToPlayKeys_11
+  - first:
+      213: -8355905956125551936
+    second: HowToPlayKeys_12
+  - first:
+      213: -4134712155749447593
+    second: HowToPlayKeys_13
+  - first:
+      213: -4319474861182338662
+    second: HowToPlayKeys_14
+  - first:
+      213: 6827583855448248900
+    second: HowToPlayKeys_15
+  - first:
+      213: -1307457105954562421
+    second: HowToPlayKeys_16
+  - first:
+      213: -7644316540974984909
+    second: HowToPlayKeys_17
+  - first:
+      213: 5121376007524012697
+    second: HowToPlayKeys_18
+  - first:
+      213: 2823805612593853467
+    second: HowToPlayKeys_19
+  - first:
+      213: 4762714912856174019
+    second: HowToPlayKeys_20
+  - first:
+      213: -6095890673309309929
+    second: HowToPlayKeys_21
+  - first:
+      213: -2484344357060378297
+    second: HowToPlayKeys_22
+  - first:
+      213: 1502387396991092554
+    second: HowToPlayKeys_23
+  - first:
+      213: -6728560063212649350
+    second: HowToPlayKeys_24
+  - first:
+      213: -2220934712432034568
+    second: HowToPlayKeys_25
+  - first:
+      213: 32734370104252404
+    second: HowToPlayKeys_26
+  - first:
+      213: 6734622748540422129
+    second: HowToPlayKeys_27
+  - first:
+      213: 1427572861599736631
+    second: HowToPlayKeys_28
+  - first:
+      213: 1500804993011750944
+    second: HowToPlayKeys_29
+  - first:
+      213: -7755081197624485593
+    second: HowToPlayKeys_30
+  - first:
+      213: 8248826217535885012
+    second: HowToPlayKeys_31
+  - first:
+      213: -8029309621176068494
+    second: HowToPlayKeys_32
+  - first:
+      213: -4075196386207921173
+    second: HowToPlayKeys_33
+  - first:
+      213: -2608418629417673598
+    second: HowToPlayKeys_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HowToPlayKeys_0
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1459
+        width: 573
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9159dfb43538aa0800000000000000
+      internalID: -6159988279470646798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1067
+        width: 362
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2d09cedcbd90c80800000000000000
+      internalID: -8355905956125551936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1444
+        width: 328
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a81b60d0df3d8b0800000000000000
+      internalID: -5128477318256162165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1055
+        width: 367
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec884826a3d2cf50800000000000000
+      internalID: 6900310289678896365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 730
+        width: 374
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53096894b0f8810e0800000000000000
+      internalID: -2298930331131670475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 783
+        width: 367
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf54a9555400c8a0800000000000000
+      internalID: -6287020315186536531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 478
+        width: 367
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0401559a4ccd8e90800000000000000
+      internalID: -7021731623295974385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 431
+        width: 369
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d9c81e6882eb80800000000000000
+      internalID: -8366975151257298834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 154
+        width: 363
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5295411dadafd8f0800000000000000
+      internalID: -513500873666227617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayKeys_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 164
+        width: 372
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6022939fb7f9830800000000000000
+      internalID: 4080116097756563130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

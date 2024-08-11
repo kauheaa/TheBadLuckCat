@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: ce7de53ca2daf054b8c74f8e02088b4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2948247194394986244
+    second: Hevosenkenka
+  - first:
+      213: -549878940255641224
+    second: Neliapila
+  - first:
+      213: -998766894020490057
+    second: Leppakerttu
+  - first:
+      213: -5141767652785003100
+    second: vilmanluckycharms_3
+  - first:
+      213: 1265681811802839674
+    second: vilmanluckycharms_4
+  - first:
+      213: 6467120410696177366
+    second: vilmanluckycharms_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hevosenkenka
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 606
+        width: 489
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 223.5}
+        - {x: -192.5, y: 127.5}
+        - {x: -233.5, y: 12.5}
+        - {x: -227.5, y: -141.5}
+        - {x: -159.5, y: -188.5}
+        - {x: -44.5, y: -193.5}
+        - {x: 16.5, y: -223.5}
+        - {x: 94.5, y: -244.5}
+        - {x: 220.5, y: -140.5}
+        - {x: 240.5, y: -22.5}
+        - {x: 211.5, y: 150.5}
+        - {x: 110.5, y: 224.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40784fbe3374ae820800000000000000
+      internalID: 2948247194394986244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neliapila
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 589
+        width: 434
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: 242}
+        - {x: -198, y: 97}
+        - {x: -196, y: -59}
+        - {x: -172, y: -123}
+        - {x: -194, y: -170}
+        - {x: -149, y: -242}
+        - {x: -86, y: -258}
+        - {x: 13, y: -179}
+        - {x: 68, y: -183}
+        - {x: 134, y: -152}
+        - {x: 201, y: -56}
+        - {x: 201, y: 188}
+        - {x: 104, y: 251}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871289864007e58f0800000000000000
+      internalID: -549878940255641224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leppakerttu
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 635
+        width: 410
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: 192}
+        - {x: 20, y: 215}
+        - {x: -71, y: 197}
+        - {x: -138, y: 150}
+        - {x: -166, y: 96}
+        - {x: -192, y: -6}
+        - {x: -172, y: -123}
+        - {x: -90, y: -192}
+        - {x: 12, y: -209}
+        - {x: 104, y: -181}
+        - {x: 179, y: -109}
+        - {x: 187, y: -35}
+        - {x: 185, y: 114}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0d743dcaa322f0800000000000000
+      internalID: -998766894020490057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vilmanluckycharms_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 489
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5e722ef85c4a8b0800000000000000
+      internalID: -5141767652785003100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vilmanluckycharms_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 55
+        width: 434
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5e27e6ea909110800000000000000
+      internalID: 1265681811802839674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vilmanluckycharms_5
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 102
+        width: 410
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6593fcfb3dfb950800000000000000
+      internalID: 6467120410696177366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{366cde90-d7be-4226-ad68-8465bcb9fd95}">
+		<property name="name">
+			<value>Screen</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f77f4b34-f124-47ae-aeab-9746c8bc7b13}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e93212ae-99a0-4990-a29e-cd8d6081a018}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e93212ae-99a0-4990-a29e-cd8d6081a018}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>IfStartPauseDeathScreen</value>
+			<value>PlayScreen</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

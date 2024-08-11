@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 9bffd9d89ebf26247a4155aa7a177795
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2229027673897411230
+    second: KissapeliStartScreen_Psb_0
+  - first:
+      213: -4310708063457378298
+    second: KissapeliStartScreen_Psb_1
+  - first:
+      213: 1204083263896843262
+    second: KissapeliStartScreen_Psb_2
+  - first:
+      213: -9039165754447780328
+    second: KissapeliStartScreen_Psb_3
+  - first:
+      213: -6307342398001497487
+    second: KissapeliStartScreen_Psb_4
+  - first:
+      213: -4747130243121124788
+    second: KissapeliStartScreen_Psb_5
+  - first:
+      213: -2017889583751764726
+    second: KissapeliStartScreen_Psb_6
+  - first:
+      213: 4947972067316004938
+    second: KissapeliStartScreen_Psb_7
+  - first:
+      213: 8201683069703477720
+    second: KissapeliStartScreen_Psb_8
+  - first:
+      213: 5925864220651798726
+    second: KissapeliStartScreen_Psb_9
+  - first:
+      213: 3375068270815286165
+    second: KissapeliStartScreen_Psb_10
+  - first:
+      213: -9030455926466866738
+    second: KissapeliStartScreen_Psb_11
+  - first:
+      213: -713118485555777781
+    second: KissapeliStartScreen_Psb_12
+  - first:
+      213: -8210398534794402710
+    second: KissapeliStartScreen_Psb_13
+  - first:
+      213: 5493124050212585627
+    second: KissapeliStartScreen_Psb_14
+  - first:
+      213: -8494003581664678079
+    second: KissapeliStartScreen_Psb_15
+  - first:
+      213: -3339342473295767568
+    second: KissapeliStartScreen_Psb_16
+  - first:
+      213: 6162791627869944526
+    second: KissapeliStartScreen_Psb_17
+  - first:
+      213: 1444215215597501843
+    second: KissapeliStartScreen_Psb_18
+  - first:
+      213: 8827438176563749465
+    second: KissapeliStartScreen_Psb_19
+  - first:
+      213: 6114810910876306188
+    second: KissapeliStartScreen_Psb_20
+  - first:
+      213: 3097546591356427334
+    second: KissapeliStartScreen_Psb_21
+  - first:
+      213: 8998501730734385150
+    second: KissapeliStartScreen_Psb_22
+  - first:
+      213: -8476732067569798271
+    second: KissapeliStartScreen_Psb_23
+  - first:
+      213: -8951674347980055283
+    second: KissapeliStartScreen_Psb_24
+  - first:
+      213: 2439527392646573981
+    second: KissapeliStartScreen_Psb_25
+  - first:
+      213: -4521983962667034264
+    second: KissapeliStartScreen_Psb_26
+  - first:
+      213: -8879727346138425212
+    second: KissapeliStartScreen_Psb_27
+  - first:
+      213: 557988977827589518
+    second: KissapeliStartScreen_Psb_28
+  - first:
+      213: -7472636025650942171
+    second: KissapeliStartScreen_Psb_29
+  - first:
+      213: 4118043782437674887
+    second: KissapeliStartScreen_Psb_30
+  - first:
+      213: 432730977658889181
+    second: KissapeliStartScreen_Psb_31
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: KissapeliStartScreen_Psb_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1807
+      y: 6334
+      width: 1807
+      height: 1113
+    spriteID: 26d54d6f327e011e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1807, y: 6334}
+  - name: KissapeliStartScreen_Psb_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6482
+      width: 1806
+      height: 1651
+    spriteID: 600063bfad94d24c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 6482}
+  - name: KissapeliStartScreen_Psb_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1816
+      y: 7450
+      width: 904
+      height: 686
+    spriteID: ef370985953c5b010800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1816, y: 7450}
+  - name: KissapeliStartScreen_Psb_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2335
+      y: 2179
+      width: 788
+      height: 880
+    spriteID: 816a34c43ae6e8280800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2335, y: 2179}
+  - name: KissapeliStartScreen_Psb_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 5370
+      width: 3650
+      height: 976
+    spriteID: a64213d780ece0e80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 5370}
+  - name: KissapeliStartScreen_Psb_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 4273
+      width: 3843
+      height: 1075
+    spriteID: d9fa88a0d31fad120800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 4273}
+  - name: KissapeliStartScreen_Psb_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2174
+      width: 2282
+      height: 2094
+    spriteID: 488d817860fd4c480800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2174}
+  - name: KissapeliStartScreen_Psb_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 3834
+      height: 2165
+    spriteID: dd36aae088e510600800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 3840, y: 2160}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: FrontGrass
+    spriteName: FrontGrass
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9d6925b9090051040909a20a79ab6abb
+    layerID: 236
+    mosaicPosition: {x: 4, y: 5373}
+  - name: appe
+    spriteName: appe
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7b37e03477fb26f46986fa65285b6e30
+    layerID: 87
+    mosaicPosition: {x: 2291, y: 2172}
+  - name: takanurmi
+    spriteName: takanurmi
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 43545ba821bbe7f43b09f2506eae99f1
+    layerID: 169
+    mosaicPosition: {x: 4, y: 4280}
+  - name: cat
+    spriteName: cat
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0fe63cacab447dc4a84102831d9bbe38
+    layerID: 25
+    mosaicPosition: {x: 4, y: 6348}
+  - name: Title
+    spriteName: Title
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8aa943ead703d094d88599e9aae8a8b5
+    layerID: 118
+    mosaicPosition: {x: 1818, y: 6348}
+  - name: Ellipse 1 copy
+    spriteName: Ellipse 1 copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c02456716e8b004791e1ab53621fc56
+    layerID: 366
+    mosaicPosition: {x: 4, y: 2172}
+  - name: mummo copy
+    spriteName: mummo copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a9c6495d6cdfd9e499b5748f97a1c26f
+    layerID: 263
+    mosaicPosition: {x: 1818, y: 7454}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e23f728ab3d9352499d22584fc4a54cd
+    layerID: 367
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: KissapeliStartScreen_Psb Texture
+  prefabAssetName: KissapeliStartScreen_Psb Prefab
+  spriteLibAssetName: KissapeliStartScreen_Psb Sprite Lib
+  secondarySpriteTextures: []

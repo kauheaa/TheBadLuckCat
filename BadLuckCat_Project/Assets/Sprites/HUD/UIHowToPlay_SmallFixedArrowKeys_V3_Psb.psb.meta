@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: dff7e2d4df395864795927897770afe1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: ASDKeys copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 120
+      width: 86
+      height: 49
+    spriteID: cdbd8c09886962343aba5f0874e64243
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -179, y: 39}
+  - name: ASDKeys copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 86
+      height: 50
+    spriteID: 49a654ae60ba1374d9e33810e88c9e5a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -179, y: -77}
+  - name: ASDKeys copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 4
+      width: 85
+      height: 50
+    spriteID: ad7a7372e59250c439e403503488d6bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -85, y: -151}
+  - name: ASDKeys
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 120
+      width: 85
+      height: 49
+    spriteID: 7772361a2eab21a429d751ebf9e09bf0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -85, y: -36}
+  - name: ArrowKeys copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 85
+      height: 50
+    spriteID: 911e662b8f937ca49afbb75c3da7f764
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -28, y: -30}
+  - name: ArrowKeys copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 62
+      width: 85
+      height: 50
+    spriteID: 273394a3c91c4194cbdc0ea1008a41ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 65, y: -30}
+  - name: ArrowKeys copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 177
+      width: 85
+      height: 49
+    spriteID: c9bd513d3d936a642b5c33afcf3ea951
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -28, y: 10}
+  - name: ArrowKeys
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 177
+      width: 85
+      height: 49
+    spriteID: 10263a348bf956e4fb2c6a2c4cb915fe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 65, y: 10}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 256
+  importedTextureHeight: 256
+  documentSize: {x: 300, y: 300}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 256
+  textureActualHeight: 256
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: ASDKeys copy 3
+    spriteName: ASDKeys copy 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cdbd8c09886962343aba5f0874e64243
+    layerID: 116
+    mosaicPosition: {x: 4, y: 120}
+  - name: ASDKeys copy 2
+    spriteName: ASDKeys copy 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 49a654ae60ba1374d9e33810e88c9e5a
+    layerID: 102
+    mosaicPosition: {x: 4, y: 4}
+  - name: ASDKeys copy
+    spriteName: ASDKeys copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ad7a7372e59250c439e403503488d6bb
+    layerID: 88
+    mosaicPosition: {x: 98, y: 4}
+  - name: ASDKeys
+    spriteName: ASDKeys
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7772361a2eab21a429d751ebf9e09bf0
+    layerID: 74
+    mosaicPosition: {x: 98, y: 120}
+  - name: ArrowKeys copy 3
+    spriteName: ArrowKeys copy 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 911e662b8f937ca49afbb75c3da7f764
+    layerID: 59
+    mosaicPosition: {x: 4, y: 62}
+  - name: ArrowKeys copy 2
+    spriteName: ArrowKeys copy 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 273394a3c91c4194cbdc0ea1008a41ea
+    layerID: 44
+    mosaicPosition: {x: 97, y: 62}
+  - name: ArrowKeys copy
+    spriteName: ArrowKeys copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c9bd513d3d936a642b5c33afcf3ea951
+    layerID: 30
+    mosaicPosition: {x: 4, y: 177}
+  - name: ArrowKeys
+    spriteName: ArrowKeys
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 10263a348bf956e4fb2c6a2c4cb915fe
+    layerID: 16
+    mosaicPosition: {x: 97, y: 177}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: UIHowToPlay_SmallFixedArrowKeys_V3_Psb Texture
+  prefabAssetName: UIHowToPlay_SmallFixedArrowKeys_V3_Psb Prefab
+  spriteLibAssetName: UIHowToPlay_SmallFixedArrowKeys_V3_Psb Sprite Lib
+  secondarySpriteTextures: []

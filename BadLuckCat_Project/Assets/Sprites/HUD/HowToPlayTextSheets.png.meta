@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 3dd9e89e1afa7834d824b8cfbd821885
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3290150975709186102
+    second: HowToPlayButton
+  - first:
+      213: -2805600015989583887
+    second: HowToPlayTitle
+  - first:
+      213: 2025675220050956210
+    second: TitleMove
+  - first:
+      213: 1272224379838352715
+    second: HowToPlayTextSheets_3
+  - first:
+      213: 976338444970522653
+    second: HowToPlayTextSheets_4
+  - first:
+      213: -3858265511908248834
+    second: HowToPlayTextSheets_5
+  - first:
+      213: 5685730714528822501
+    second: TitleJump
+  - first:
+      213: -9124503433134146350
+    second: HowToPlayTextSheets_7
+  - first:
+      213: -6801034839407257750
+    second: HowToPlayTextSheets_8
+  - first:
+      213: -5153461251159528285
+    second: HowToPlayTextSheets_9
+  - first:
+      213: 6732483295326212830
+    second: HowToPlayFixTheMirror
+  - first:
+      213: 7860630162222163486
+    second: HowToPlayTextSheets_11
+  - first:
+      213: 5066232366959533919
+    second: HowToPlayTextSheets_12
+  - first:
+      213: -2856732721176873524
+    second: HowToPlayTextSheets_13
+  - first:
+      213: 636487056729762752
+    second: HowToPlayTextSheets_14
+  - first:
+      213: -8657782993437100240
+    second: HowToPlayTextSheets_15
+  - first:
+      213: -7913053567388647062
+    second: ArrowKeysUp
+  - first:
+      213: -8530501513549222459
+    second: SpaceBarUp
+  - first:
+      213: 1336130750303029473
+    second: HowToPlayTextSheets_18
+  - first:
+      213: -7645846121739079373
+    second: HowToPlayTextSheets_19
+  - first:
+      213: -7284885220635750970
+    second: HowToPlayTextSheets_20
+  - first:
+      213: 8625411798735733317
+    second: HowToPlayTextSheets_21
+  - first:
+      213: -8324915456126819371
+    second: HowToPlayTextSheets_22
+  - first:
+      213: 7963114283026300888
+    second: HowToPlayTextSheets_23
+  - first:
+      213: 3974012048344835990
+    second: HowToPlayTextSheets_24
+  - first:
+      213: -2547509708346846000
+    second: HowToPlayTextSheets_25
+  - first:
+      213: -1080545301813839310
+    second: HowToPlayTextSheets_26
+  - first:
+      213: 7020014935984867270
+    second: ArrowKeysDown
+  - first:
+      213: -7936904416064523249
+    second: SpaceBarDown
+  - first:
+      213: -6557923368448755882
+    second: HowToPlayTextSheets_29
+  - first:
+      213: 358717149524347742
+    second: HowToPlayTextSheets_30
+  - first:
+      213: -8004483692128664921
+    second: HowToPlayTextSheets_31
+  - first:
+      213: 9017809933129060601
+    second: HowToPlayTextSheets_32
+  - first:
+      213: -3563725401831420387
+    second: HowToPlayTextSheets_33
+  - first:
+      213: -5435236242211453278
+    second: HowToPlayTextSheets_34
+  - first:
+      213: -5810885911118264611
+    second: HowToPlayTextSheets_35
+  - first:
+      213: -7078092724964006999
+    second: HowToPlayTextSheets_36
+  - first:
+      213: 7022387349075615159
+    second: HowToPlayYourLuckRun
+  - first:
+      213: 3299144025571303172
+    second: HowToPlayTextSheets_38
+  - first:
+      213: -1454843678405178963
+    second: HowToPlayTextSheets_39
+  - first:
+      213: -3005549356296887092
+    second: HowToPlayTextSheets_40
+  - first:
+      213: -7588252425077048136
+    second: HowToPlayTextSheets_41
+  - first:
+      213: -8747401879737272473
+    second: HowToPlayTextSheets_42
+  - first:
+      213: -3531905679964128393
+    second: HowToPlayTextSheets_43
+  - first:
+      213: 6341460753130098937
+    second: HowToPlayTextSheets_44
+  - first:
+      213: 7972766676160752751
+    second: HowToPlayTextSheets_45
+  - first:
+      213: 2421148454671249103
+    second: HowToPlayTextSheets_46
+  - first:
+      213: -7792090175631927665
+    second: HowToPlayTextSheets_47
+  - first:
+      213: -4826371732679725693
+    second: HowToPlayTextSheets_48
+  - first:
+      213: 7194518585557508957
+    second: HowToPlayTextSheets_49
+  - first:
+      213: -7668704856536256889
+    second: HowToPlayDontLet
+  - first:
+      213: -1258473279938877116
+    second: HowToPlayTextSheets_51
+  - first:
+      213: -5158617019831564953
+    second: HowToPlayTextSheets_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HowToPlayButton
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1447
+        width: 934
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f27b9e190752d0800000000000000
+      internalID: -3290150975709186102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayTitle
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1554
+        width: 1036
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff4c1176a18019d0800000000000000
+      internalID: -2805600015989583887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleMove
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1177
+        width: 274
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfc27151e4ac1c10800000000000000
+      internalID: 2025675220050956210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleJump
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1177
+        width: 259
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4b408e5f5c7ee40800000000000000
+      internalID: 5685730714528822501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayFixTheMirror
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1056
+        width: 1054
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29b2a03e59e6d50800000000000000
+      internalID: 6732483295326212830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowKeysUp
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1027
+        width: 299
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618923a4bf2f2290800000000000000
+      internalID: -7913053567388647062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBarUp
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1029
+        width: 343
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd67f8e1129d9980800000000000000
+      internalID: -8530501513549222459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowKeysDown
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 849
+        width: 289
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c78051046a1c6160800000000000000
+      internalID: 7020014935984867270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceBarDown
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 859
+        width: 343
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04be303c737ad190800000000000000
+      internalID: -7936904416064523249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayYourLuckRun
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 352
+        width: 1340
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd59d87618847160800000000000000
+      internalID: 7022387349075615159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayDontLet
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 511
+        width: 799
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee7d24099439590800000000000000
+      internalID: -7668704856536256889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowToPlayTextSheets_52
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 365
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c7a8e629e868b0800000000000000
+      internalID: -5158617019831564953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
